@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "deploy-test-27c90",
+    "deploy": "deploy-test-27c90"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
